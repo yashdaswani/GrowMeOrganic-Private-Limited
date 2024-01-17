@@ -1,0 +1,12 @@
+.second-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .data-grid-container {
+    margin-top: 20px;
+  }
+  
+  

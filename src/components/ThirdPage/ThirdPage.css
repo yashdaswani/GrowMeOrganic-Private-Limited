@@ -1,0 +1,19 @@
+.third-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  h4 {
+    margin-bottom: 20px;
+  }
+  
+
+  .ListItem {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  
